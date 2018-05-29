@@ -5,3 +5,5 @@ all: W18-18.xml W18-20.xml W18-21.xml W18-22.xml
 	scripts/create_anthology_xml.py tsv/$*.tsv $* $*.xml bib AMTA
 
 
+clean:
+	rm -rf *.xml bib *~

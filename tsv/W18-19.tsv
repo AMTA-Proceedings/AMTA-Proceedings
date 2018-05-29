@@ -1,9 +1,9 @@
-author	title	booktitle	month	year	address	publisher	pages	url	note
-	MT Users’ Track	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-19	Entire Volume
-	Front Matter	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1900	Front Matter
-	Keynote 1	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1901	Keynote not in collective proceeding
-	Keynote 2	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	April	2019	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1902	Keynote not in collective proceeding
-	Keynote 3	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	May	2020	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1903	Keynote not in collective proceeding
-									
-									
-To be completed, lets prioritize research and workshops first									
+author	bibtype	title	booktitle	month	year	address	publisher	pages	url	note
+	book	MT Users’ Track	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-19	Entire Volume
+	inproceedings	Front Matter	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1900	Front Matter
+	inproceedings	Keynote 1	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	March	2018	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1901	Keynote not in collective proceeding
+	inproceedings	Keynote 2	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	April	2019	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1902	Keynote not in collective proceeding
+	inproceedings	Keynote 3	Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA 2018)	May	2020	Boston, MA	Association for Machine Translation in the Americas		http://www.aclweb.org/anthology/W/W18/W18-1903	Keynote not in collective proceeding
+										
+										
+To be completed, lets prioritize research and workshops first										
